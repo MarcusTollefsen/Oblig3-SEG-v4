@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 
-public class leapyear_test {
+public class leapyeartest {
 
     @Test
     public void is_dividable_by_4_not_100()
