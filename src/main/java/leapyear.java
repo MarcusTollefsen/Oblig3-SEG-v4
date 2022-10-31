@@ -8,7 +8,7 @@ public class leapyear {
         }
 
         else if (year % 400 == 0) {
-             System.out.println(year + " ture" );
+             System.out.println(year + " true" );
              return true;
         }
         else {
