@@ -1,4 +1,4 @@
-public class Loopyear {
+public class leapyear {
 
     public static Boolean isLeapYear(int year) {
 
